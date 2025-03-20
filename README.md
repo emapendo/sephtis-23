@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sephtis || Elias Mapendo
+- 👋 Hi, I’m @emapendo || Elias Mapendo
 - 👀 I’m interested in Quantitive Trading, Software Engineering and Entrepreneurship
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
